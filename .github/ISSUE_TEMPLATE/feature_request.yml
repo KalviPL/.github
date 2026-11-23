@@ -10,9 +10,14 @@ body:
       label: Select Plugin
       description: Which plugin does this feature request affect?
       options:
-        - Plugin 1 (change to your plugin name)
-        - Plugin 2
-        - Plugin 3
+        - AdvancedMOTD
+        - ChunkLock Core
+        - PixelBattlepass
+        - PixelEvents
+        - PixelJobs
+        - PixelMarket
+        - PixelMessage
+        - UpdateChecker
     validations:
       required: true
 
